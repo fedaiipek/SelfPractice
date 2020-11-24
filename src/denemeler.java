@@ -6,5 +6,7 @@ public class denemeler {
         System.out.println("Denemeler");
         System.out.println("Denemeler2");
         System.out.println("Denemeler3");
+        System.out.println("Denemeler4");
+        System.out.println("Denemeler5");
     }
 }
