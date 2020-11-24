@@ -9,5 +9,6 @@ public class denemeler {
         System.out.println("Denemeler4");
         System.out.println("Denemeler5");
         System.out.println("Ortaklar1");
+        System.out.println("ortaklar2");
     }
 }
